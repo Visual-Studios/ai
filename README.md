@@ -3,8 +3,9 @@
 These are the commands you can use:
 
 ## Commands
-
-- '''hello'''
+  bash'''
+- hello
+- '''
 - '''how are you'''
 - '''what is your name'''
 - '''bye'''
