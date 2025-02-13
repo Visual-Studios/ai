@@ -1,5 +1,7 @@
-This is a AI Assistant these are the commands you can use.  hello
-                how are you
+This is a AI Assistant these are the commands you can use. 
+'''
+hello
+'''                how are you
 
                 what is your name
 
