@@ -7,8 +7,8 @@ These are the commands you can use:
 
 - ```bash
   hello
-
-- '''how are you'''
+ ```bash
+- how are you
 - '''what is your name'''
 - '''bye'''
 - '''what can you do'''
